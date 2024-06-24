@@ -6,11 +6,15 @@ ViTo>```https://github.com/DDavid701/ViTo```
 
 CaseOh Bot>```https://github.com/DDavid701/caseoh_discord_bot```
 
+PubChat> ```https://github.com/DDavid701/PubChat```
+
+Weather Map> ```https://github.com/DDavid701/german_weather_map```
+
 
 # Current Projects
 
-CodeStudio IDE> ```47%```
+CodeStudio IDE> ```47% (PAUSED)```
 
-Python-ToolBox> ```0%```
+Python-ToolBox> ```13% (PAUSED)```
 
-???        > ```0%```
+Simulator        > ```10%```
