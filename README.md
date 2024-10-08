@@ -1,6 +1,6 @@
 # About Me:
 - L Programmer
-- currently Learning Rust
+- currently learning Rust (and english :D)
 
 I'm currently working on AEnv a Rust based alternative for venv.
 
