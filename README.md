@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on CTkThemer a open source theme maker for Customtkinter.
+I'm currently working on AEnv a Rust based alternative for venv.
 
 ### My Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DDavid701)
