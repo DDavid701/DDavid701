@@ -1,8 +1,8 @@
 # About Me:
-- L Programmer
+- Python Programmer
 - currently learning Rust (and english :D)
 
-I'm currently working on AEnv a Rust based alternative for venv.
+I'm currently working on a Python state monitoring app.
 
 ### My Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DDavid701)
